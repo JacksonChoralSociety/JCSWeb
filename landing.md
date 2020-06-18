@@ -1,8 +1,8 @@
 ---
-title: Landing
+title: Jackson Choral Society
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/pic07.jpg
+description: 'The Voice of the People, for a Better World through Music'
+image: assets/images/JCS Header.png
 nav-menu: true
 ---
 
@@ -13,9 +13,12 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Sing with Us</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>Jackson’s community choir, the Jackson Choral Society (JCS), was founded in January 2011.
+		We are an 80+ voice, non-auditioned ensemble of singers from Jackson and surrounding communities.
+		Our members all share a love of choral music. Performance repertoire is varied and diverse, performing composers such as Monteverdi, Mozart, Gjeilo, Whitacre, as well as pop and Broadway selections.
+		JCS is committed to furthering the performance and appreciation of choral music throughout west TN.</p>
 	</div>
 </section>
 
