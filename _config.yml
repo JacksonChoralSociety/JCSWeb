@@ -4,7 +4,7 @@ subtitle: Jackson Choral Society
 email: info@jacksonchoralsociety.com
 description: The Voice of the People, for a Better World through Music
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: http://www.jacksonchoralsociety.com
+url: https://trusting-lalande-d1706a.netlify.app/
 street_address: 319 Vann Dr. &#35E264
 city: Jackson
 state: TN
@@ -21,13 +21,13 @@ tiles-count: 6
 500px_url:
 facebook_url:
 github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+gitlab_url: 
+googleplus_url: 
+instagram_url: 
+linkedin_url: 
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: 
 
 # build settings
 markdown: kramdown
