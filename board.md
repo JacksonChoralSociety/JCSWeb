@@ -13,7 +13,7 @@ nav-menu: true
 		<span class="image fit"><img src="{% link assets/images/Amy.jpg %}" alt="" /></span>
 		<p>President</p></div>
 		<div class="6u">
-		<h3>Lynn Menendez</h3>
+		<h3>Bob Vegors</h3>
 		<span class="image fit"><img src="{% link assets/images/Lynn.jpg %}" alt="" /></span>
 		<p>Vice-President</p></div>
 		<div class="6u">
@@ -26,7 +26,7 @@ nav-menu: true
 		<span class="image fit"><img src="{% link assets/images/Milt.jpg %}" alt="" /></span>
 		<p>President Emeritus</p></div>
 		<div class="6u">
-		<h3>Bob Vegors</h3>
+		<h3>Lynn Menendez</h3>
 		<span class="image fit"><img src="{% link assets/images/NotPictured.png %}" alt="" /></span>
 		<p></p></div>
 		<div class="6u">
@@ -43,8 +43,8 @@ nav-menu: true
 		<span class="image fit"><img src="{% link assets/images/NotPictured.png %}" alt="" /></span>
 		<p></p></div>
 		<div class="6u">
-		<h3>Kellye Sheppard</h3>
-		<span class="image fit"><img src="{% link assets/images/NotPictured.png %}" alt="" /></span>
+		<h3>Kellye Cash</h3>
+		<span class="image fit"><img src="{% link assets/images/KCash.jpg %}" alt="" /></span>
 		<p></p></div>
 		<!-- Break -->
 		<div class="6u">
