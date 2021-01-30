@@ -44,7 +44,7 @@ nav-menu: true
 		<p></p></div>
 		<div class="6u">
 		<h3>Kellye Cash</h3>
-		<span class="image fit"><img src="{% link assets/images/KCash.jpg %}" alt="" /></span>
+		<span class="image fit"><img src="{% link assets/images/KCash.JPG %}" alt="" /></span>
 		<p></p></div>
 		<!-- Break -->
 		<div class="6u">
